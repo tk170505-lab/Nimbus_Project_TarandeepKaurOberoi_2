@@ -1,3 +1,8 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include "bankacc.h"
+
+
 void menu() {
     int choice;
     do {

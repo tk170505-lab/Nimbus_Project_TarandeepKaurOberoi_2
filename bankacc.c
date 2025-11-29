@@ -1,3 +1,7 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include "bankacc.h"
+
 int findacc(int accNum) {
     int pos = 0;
     while (pos < totalaccount) {

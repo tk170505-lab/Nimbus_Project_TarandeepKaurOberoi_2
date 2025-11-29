@@ -1,13 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h> 
+#include "bankacc.h"
 
-struct Account {
-    char name[100];
-    float balance;
-    float rates;
-    int accno;
-};
 struct Account*accounts = NULL;
 int totalaccount=0; 
 
