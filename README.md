@@ -48,13 +48,6 @@ Nimbus_Project_TarandeepKaurOberoi_2/
   Code is separated across `.c` and `.h` files for better readability and modularity.
 
 
-
- Sample Program Flow (Example Output)
-
-
-
-
-
  Internal Structure & Logic
 
  1. Account Structure (in `bankacc.h`)
